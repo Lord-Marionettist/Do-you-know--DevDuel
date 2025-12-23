@@ -1,11 +1,11 @@
-# Quiz Application (Quad Hackathon)
+# Quiz Application (DevDuel IIT-Hydrabad)
 
 A quiz Web App that uses [Open Trivia DB](https://opentdb.com/api_config.php)
 
 ## Deployments
-[Deployed link](https://limitless-demon-venerable.github.io/Quiz-Application--Quad-Hackathon/)
+[Deployed link]() // Put the dep link
 <br>
-[Vercel link](https://quiz-application-quad-hackathon.vercel.app/)
+[Vercel link]() // Put the dep link
 
 ## Tech Stacks (The contraints given)
 * **HTML5:** Main Body.
@@ -25,14 +25,13 @@ To run this project locally:
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/Limitless-Demon-Venerable/Quiz-Application--Quad-Hackathon.git](https://github.com/Limitless-Demon-Venerable/Quiz-Application--Quad-Hackathon.git)
+    git clone https://github.com/Limitless-Demon-Venerable/Do-you-know--DevDuel.git
     ```
 2.  **Navigate to the project directory:**
     ```bash
-    cd Quiz-Application--Quad-Hackathon
+    cd Do-you-know--DevDuel.git
     ```
 3.  **Launch the application:**
     Open `index.html` in your preferred web browser.
 
----
-*Created by [Anurag Shre (Limitless-Demon-Venerable)](https://github.com/Limitless-Demon-Venerable)*
+
