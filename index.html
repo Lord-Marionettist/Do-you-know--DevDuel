@@ -209,7 +209,7 @@
 <script>
     const videoElement = document.getElementById('startVideo');
     const audio = document.getElementById('backgroundMusic');
-    const playButton = document.querySelector('#play button'); 
+
 
     
     videoElement.addEventListener('ended', (event) => {
@@ -223,17 +223,6 @@
     });
 
 
-    playButton.addEventListener('click', () => {
-        audio.muted = false; 
-        audio.volume = 0.15
-        audio.play().then(() => {
-            console.log("Audio playing successfully.");
-        }).catch(error => {
-            console.log("Playback failed:", error);
-        });
-        
-
-    });
 </script>
 
 
