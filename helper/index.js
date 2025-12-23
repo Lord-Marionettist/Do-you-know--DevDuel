@@ -259,6 +259,7 @@ function showResults() {
 
     let playScreen = document.getElementById('play');
 
+    
 
     playScreen.innerHTML = `
         <img src="./assets/web gfx/focus.jpeg" alt="Score">
