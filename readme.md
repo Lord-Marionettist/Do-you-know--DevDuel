@@ -1,4 +1,4 @@
-# Quiz Application (DevDuel IIT-Hydrabad)
+# Quiz Application (DevDuel IIT-Hyderabad)
 
 A quiz Web App that uses [Open Trivia DB](https://opentdb.com/api_config.php)
 
