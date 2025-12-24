@@ -275,8 +275,14 @@ function enableGameLogic() {
                 let options = active.querySelectorAll('h5');
                 // Color the correct answer green and wrong answer red
                 options.forEach(opt => {
-                    if (opt.dataset.isCorrect === "true") opt.style.backgroundColor = '#90EE90';
-                    if (opt === selected && !isCorrect) opt.style.backgroundColor = '#FFB6C1';
+                    if (opt.dataset.isCorrect === "true"){
+                        opt.style.backgroundColor = '#90EE90';
+                        opt.style.borderColor = '#90EE90';
+                    }
+                    if (opt === selected && !isCorrect){
+                        opt.style.backgroundColor = '#FFB6C1';
+                        opt.style.borderColor = '#FFB6C1';
+                    }
                 });
 
                 // Add points if they got it right
