@@ -7,6 +7,8 @@
 
 ## Project Overview
 
+![banner](./assets/web%20gfx/pc.jpeg)
+
 **Do You Know?** is an interactive educational quiz platform designed to make learning engaging and fun. The application delivers a gamified trivia experience with dynamic difficulty levels, instant feedback, and XP-based progression tracking - perfect for students who want to study while having fun.
 
 Built with vanilla HTML5, CSS3, and JavaScript, this platform emphasizes **responsive design**, **immersive user experience**, and **real-time learning analytics**. Students can explore diverse topics across multiple difficulty levels and track their learning progress through an XP system.
