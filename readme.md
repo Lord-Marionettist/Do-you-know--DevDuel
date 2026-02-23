@@ -272,6 +272,6 @@ For questions about this project, please reach out via GitHub issues or the Dev 
 
 ---
 
-**Happy Learning!**
+**Happy Learning!!**
 
 ![Immersive Interface](./assets/web%20gfx/laptop.jpeg)<br>
